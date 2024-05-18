@@ -1,0 +1,34 @@
+if room = Logo
+{
+	object_index.visible = false;
+}
+
+if room = Sala1
+{
+	object_index.visible = true;
+}
+
+if room = Sala2
+{
+	object_index.visible = true;
+}
+
+if room = Shop
+{
+	object_index.visible = true;
+}
+
+if room = Boost
+{
+	object_index.visible = true;
+}
+
+if room = Paper
+{
+	object_index.visible = false;
+}
+
+if room = Logo2
+{
+	object_index.visible = false;
+}
